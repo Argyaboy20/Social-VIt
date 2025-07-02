@@ -1,0 +1,7 @@
+{
+  "name": "Social-Vit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
