@@ -10,7 +10,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "tailwind-init": "tailwindcss init -p"
+    "tailwind-init": "npx tailwindcss init -p"
   },
   "private": true,
   "dependencies": {
